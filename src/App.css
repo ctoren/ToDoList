@@ -27,7 +27,7 @@
 /* styling red vertical line */
 #paper::before {
   content: '';
-  width: 2px;
+  width: 3px;
   height: 100%;
   position: absolute;
   top: 0;
